@@ -21,22 +21,38 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1790567434~Starts=1790563834~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=dIdbo9jRF7nQBZgReqWpOqcrcvVmwCfabJFCW-0M5omlfmDu0f2BZtTNwfvK62DAuzU9F0QMge_iWyD2P8g5Aw&nocache=1790563835478
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1790587050~Starts=1790583450~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=c0QbQR2z8fcC1-36ltlQraALvMYToDTmNt-r5BH6jzUZ2oHFFRvC90Z8FyjV1PMwD6heYnxDF5TctIzLV7e4Dw&nocache=1790583450784
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png", NTV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1790567440~Starts=1790563840~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=NTZxJdBvbydQtvVFn2IKQ2DqPhimOgbQycFG2cy-4K0z_eOW375oy81Rfd3XoaycB-qsbzVVMHK1_xU7_XasCA&nocache=1790563840679
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1790587057~Starts=1790583457~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=cqfmR1wT2uRWqJ0DhRzpfUsTegeXzHJdzxJueTmfAb00AC03CFefdEW2p-W10cGXbw4t3Y_7wC_dVyuFgvSPCQ&nocache=1790583457516
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png", Sony Aath
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1790567441~Starts=1790563841~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=T8lmG5_8FZLYGwH25y24f_3rzCZKQq9EMRzXbwXtCim-ahteqLjC2KkFu-J46erbdgfmrA6fESGWztZuTBCFCg&nocache=1790563841436
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1790587057~Starts=1790583457~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=cqfmR1wT2uRWqJ0DhRzpfUsTegeXzHJdzxJueTmfAb00AC03CFefdEW2p-W10cGXbw4t3Y_7wC_dVyuFgvSPCQ&nocache=1790583458089
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png", Channel i
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/channel_i/playlist.m3u8?edge-cache-token=Expires=1790567441~Starts=1790563841~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=T8lmG5_8FZLYGwH25y24f_3rzCZKQq9EMRzXbwXtCim-ahteqLjC2KkFu-J46erbdgfmrA6fESGWztZuTBCFCg&nocache=1790563842274
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/channel_i/playlist.m3u8?edge-cache-token=Expires=1790587056~Starts=1790583456~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=9g9Rg7FV46-xWUU3JhopQdd4MFS7AZj484zQopQZKPnLZsqmAJjPVgkVkc8AP20UEA4UFu6VZYL0o8Boe-thAg&nocache=1790583457150
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -61,47 +77,83 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png", Somoy TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1790567448~Starts=1790563848~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=OLmKb-ZGgTNYP0Hjg0EALHF1d29qH7vBU56ZMU3-yqNwPfKmKjyUBkkkMi_fMrhki94ETrdeV8ETMn8GcgPeBw&nocache=1790563849227
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1790587063~Starts=1790583463~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=tOFy_JpkOYrU7HGs6Zypr2782plh_pp9uSnVCEYNdPMHVPOgSFWP3Tz5puPza53XiYt4edQsnyQAVC0lxRYxAA&nocache=1790583464173
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png", Ekhon TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?edge-cache-token=Expires=1790567448~Starts=1790563848~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=OLmKb-ZGgTNYP0Hjg0EALHF1d29qH7vBU56ZMU3-yqNwPfKmKjyUBkkkMi_fMrhki94ETrdeV8ETMn8GcgPeBw&nocache=1790563848760
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?edge-cache-token=Expires=1790587064~Starts=1790583464~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=HMa4mvpERXBMxEeCd0DEYGvnSNs5TYeb0nkVbgyzQIJr7q-qqFkz2lHmfsg9L16i_obCAvOPbkvihI2LqwA9Dg&nocache=1790583464942
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png", Global TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1790567448~Starts=1790563848~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=OLmKb-ZGgTNYP0Hjg0EALHF1d29qH7vBU56ZMU3-yqNwPfKmKjyUBkkkMi_fMrhki94ETrdeV8ETMn8GcgPeBw&nocache=1790563849175
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1790587064~Starts=1790583464~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=HMa4mvpERXBMxEeCd0DEYGvnSNs5TYeb0nkVbgyzQIJr7q-qqFkz2lHmfsg9L16i_obCAvOPbkvihI2LqwA9Dg&nocache=1790583464978
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png", Toffee Movies
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790567457~Starts=1790563857~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=tJQuAFXBCFM_sxxPwWGRpJxHbzUOKe8bYjuj3PaaPHLtQioFdNdXG_bO0iNMez1e9jI5Ajgz9apfuRn2VwcwBA&nocache=1790563857822
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790587071~Starts=1790583471~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=nnHpx_LXsUiO5PPH1wn666LJkzNCUs0Z_YJu97W1ERst2CbpbXTQ_-uV49-EEOiPSwm4f1zeVdFVS03y3lkeAw&nocache=1790583471633
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png", Jamuna TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1790567457~Starts=1790563857~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=tJQuAFXBCFM_sxxPwWGRpJxHbzUOKe8bYjuj3PaaPHLtQioFdNdXG_bO0iNMez1e9jI5Ajgz9apfuRn2VwcwBA&nocache=1790563858887
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1790587071~Starts=1790583471~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=nnHpx_LXsUiO5PPH1wn666LJkzNCUs0Z_YJu97W1ERst2CbpbXTQ_-uV49-EEOiPSwm4f1zeVdFVS03y3lkeAw&nocache=1790583472206
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/KECGB54BuUSiBsg_dHyj/posters/58af9c58-ed80-458c-af13-cf381680cec6.png", Rajdhani TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1790567457~Starts=1790563857~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=tJQuAFXBCFM_sxxPwWGRpJxHbzUOKe8bYjuj3PaaPHLtQioFdNdXG_bO0iNMez1e9jI5Ajgz9apfuRn2VwcwBA&nocache=1790563857948
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1790587071~Starts=1790583471~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=nnHpx_LXsUiO5PPH1wn666LJkzNCUs0Z_YJu97W1ERst2CbpbXTQ_-uV49-EEOiPSwm4f1zeVdFVS03y3lkeAw&nocache=1790583471951
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png", Bangla TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?edge-cache-token=Expires=1790567457~Starts=1790563857~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=tJQuAFXBCFM_sxxPwWGRpJxHbzUOKe8bYjuj3PaaPHLtQioFdNdXG_bO0iNMez1e9jI5Ajgz9apfuRn2VwcwBA&nocache=1790563858058
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?edge-cache-token=Expires=1790587070~Starts=1790583470~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=h2Q1vRiBxmTvUHEFMtvYk7kDYLx5C3Qj53QFdY6Vyue71ovsgMckxjWHyyLcjnfHHaNKs6wlYL5duj7Ny9EfCA&nocache=1790583471292
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png", Independent TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?edge-cache-token=Expires=1790567457~Starts=1790563857~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=tJQuAFXBCFM_sxxPwWGRpJxHbzUOKe8bYjuj3PaaPHLtQioFdNdXG_bO0iNMez1e9jI5Ajgz9apfuRn2VwcwBA&nocache=1790563857943
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?edge-cache-token=Expires=1790587070~Starts=1790583470~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=h2Q1vRiBxmTvUHEFMtvYk7kDYLx5C3Qj53QFdY6Vyue71ovsgMckxjWHyyLcjnfHHaNKs6wlYL5duj7Ny9EfCA&nocache=1790583471407
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png", Channel S
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?edge-cache-token=Expires=1790567465~Starts=1790563865~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=M20uN-EMQQeYQwf1N0ytwzgTROxmSsuhukvaYvbDUJe18qEFC1fYlLTfgdDaDbsaUWjEHP7w7LF5NveKopXjBA&nocache=1790563866645
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?edge-cache-token=Expires=1790587078~Starts=1790583478~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=ZA3ZX97qAH5VERV7jM8ncoQ3fkY-y6aBdxStM28_MXQHU8iwDSiPcGjnX5TDDICqItGzY-NwSMvtY0aibcjbAA&nocache=1790583479150
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -121,7 +173,11 @@ https://raw.githubusercontent.com/raselmia9/Toffee-auto/refs/heads/main/Live_eve
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1790567465~Starts=1790563865~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=M20uN-EMQQeYQwf1N0ytwzgTROxmSsuhukvaYvbDUJe18qEFC1fYlLTfgdDaDbsaUWjEHP7w7LF5NveKopXjBA&nocache=1790563866483
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1790587077~Starts=1790583477~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=gwnrUOmnyiDFO32p5MppMVsxd5hJDTiIL4tY5alY8tE-8jCfhBTqgIW2QdMdJrezHKzURohcjQFzo90_9OsQDA&nocache=1790583478109
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -141,7 +197,11 @@ https://toffeelive.com/en/watch/vi5n-JQBv9knK3AHqzTC
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp", Sony Ten Cricket
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790567473~Starts=1790563873~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=enjQoK_0pf7szf-sahlvLOrlz6GceUUNzXxvh6KoaFAcbqr9e0dp0hGkxXOXw6DiKHddQLwR1VpREdJNmoRDCA&nocache=1790563874209
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790587084~Starts=1790583484~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=BxMRE49nlx5awGAQZRWTZDFWjlfDpGAm8lITWxk2NIQSBIDPZE8efNIEX6k-BJIWaUz3DFWtIJwjAhKseI_-Cw&nocache=1790583485814
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -176,12 +236,20 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp", Sony MAX 2
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1790567489~Starts=1790563889~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=oV1LBhoBnabIjSjTMOod7eVk9WHTk5j9Ez9qa5JXT_Sbr7sR4ko2rCNpANYKUt_oJFwkrQEydh1BiwxJBMhOCw&nocache=1790563890225
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8?edge-cache-token=Expires=1790587099~Starts=1790583499~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=kTo1mEJSRJSG3vRxNFPcvNIYrvOPuva7W3dKhdrYKoNeokULsL9tgtBEsY2dFLOF29UYj_oUvrwXNEqW_Fa-Cw&nocache=1790583500003
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png", Movie Bangla
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8?edge-cache-token=Expires=1790567489~Starts=1790563889~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=oV1LBhoBnabIjSjTMOod7eVk9WHTk5j9Ez9qa5JXT_Sbr7sR4ko2rCNpANYKUt_oJFwkrQEydh1BiwxJBMhOCw&nocache=1790563889820
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8?edge-cache-token=Expires=1790587099~Starts=1790583499~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=kTo1mEJSRJSG3vRxNFPcvNIYrvOPuva7W3dKhdrYKoNeokULsL9tgtBEsY2dFLOF29UYj_oUvrwXNEqW_Fa-Cw&nocache=1790583499698
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -221,7 +289,11 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/russia_today/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png", Ekattor TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?edge-cache-token=Expires=1790567497~Starts=1790563897~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=nAV5XkSKRd7cxx-Da6s-Zd3zk3ly4gj-CprrZCtKdBlrksc_xpaNcpWjmRucoqIurO4sNwjH1dFl0AMp72IMBA&nocache=1790563898120
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?edge-cache-token=Expires=1790587106~Starts=1790583506~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=Dp5VaY0xhlHTCyi6wSxE5DoWDBTtGWAP7ywlop2OorjEWNiENJLtFX8clWXZiDMtyvJQ-7KyMb7Rw1_OlfsnDg&nocache=1790583506997
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -266,7 +338,11 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp", Sony BBC Earth HD
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1790567513~Starts=1790563913~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=qwWk2mvNMBpBf28wRcNxNYaDH58XIQm3Eokp-qavOyBOEtU5TEZyGQgoi5cHTe2DWPU6cL8DhaRD7iXVRY-VDA&nocache=1790563914047
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8?edge-cache-token=Expires=1790587121~Starts=1790583521~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=wCatC8uJsPH8ra7IoiF6qqTyMXJScaN1tbSy_y0qf7mnB2vDQBKUS2e19yUypby9PA4Ec-LOFtZE0DgpaSI8Bg&nocache=1790583521578
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
@@ -316,12 +392,20 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp", Sony YAY
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1790567530~Starts=1790563930~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=Q8iMvyr57u5v6ekmpAfFu1R-54sh0JLhAMvUu3fWG4d7HntfoZdqGRjuF3e91jDkLc-s--IFWiVrLq5WsrOtBA&nocache=1790563930571
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1790587135~Starts=1790583535~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=BMJmtSs_iKA6hnd8mBiTHaIJquzkBnd2oZp-u8Y1gQWvju8qT-ia7gHXCCKMiEhCbwMP7EPLhU9wOgOQXmiqBw&nocache=1790583536059
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png", Islamic TV
+<<<<<<< Updated upstream
 https://prod-linear-media.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8?edge-cache-token=Expires=1790567529~Starts=1790563929~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=wzwtn5UbNGGpzImYSUPedeN7JXdne21LZSAXi5TCeC8gc2Qm5S2FwlBuJBGCXlUP71ORZCbH4rbQpjXbHh1aDg&nocache=1790563930207
+=======
+https://prod-linear-media.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8?edge-cache-token=Expires=1790587135~Starts=1790583535~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDA1NmQzZjQtMDU0ZC00OTAzLWJiOTItZGYyNDhkYzI2ZjhhIn0~Signature=BMJmtSs_iKA6hnd8mBiTHaIJquzkBnd2oZp-u8Y1gQWvju8qT-ia7gHXCCKMiEhCbwMP7EPLhU9wOgOQXmiqBw&nocache=1790583535969
+>>>>>>> Stashed changes
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie="}
 
